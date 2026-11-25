@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "ParticleTool", "ParticleTool.vcxproj", "{8E925DA1-00BC-4D35-A0D4-DF6D120DAA7C}"
+EndProject
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "ParticleRuntime", "ParticleRuntime\ParticleRuntime.vcxproj", "{A720E2A5-18B3-40F8-AD77-3E2B83C451A3}"
+EndProject
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "ParticleRuntimeDxLib", "ParticleRuntimeDxLib\ParticleRuntimeDxLib.vcxproj", "{D3472E14-2B61-4F04-A546-1D4377F0A9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E925DA1-00BC-4D35-A0D4-DF6D120DAA7C}.Debug|x64.ActiveCfg = Debug|x64
+		{8E925DA1-00BC-4D35-A0D4-DF6D120DAA7C}.Debug|x64.Build.0 = Debug|x64
+		{8E925DA1-00BC-4D35-A0D4-DF6D120DAA7C}.Release|x64.ActiveCfg = Release|x64
+		{8E925DA1-00BC-4D35-A0D4-DF6D120DAA7C}.Release|x64.Build.0 = Release|x64
+		{A720E2A5-18B3-40F8-AD77-3E2B83C451A3}.Debug|x64.ActiveCfg = Debug|x64
+		{A720E2A5-18B3-40F8-AD77-3E2B83C451A3}.Debug|x64.Build.0 = Debug|x64
+		{A720E2A5-18B3-40F8-AD77-3E2B83C451A3}.Release|x64.ActiveCfg = Release|x64
+		{A720E2A5-18B3-40F8-AD77-3E2B83C451A3}.Release|x64.Build.0 = Release|x64
+		{D3472E14-2B61-4F04-A546-1D4377F0A9F3}.Debug|x64.ActiveCfg = Debug|x64
+		{D3472E14-2B61-4F04-A546-1D4377F0A9F3}.Debug|x64.Build.0 = Debug|x64
+		{D3472E14-2B61-4F04-A546-1D4377F0A9F3}.Release|x64.ActiveCfg = Release|x64
+		{D3472E14-2B61-4F04-A546-1D4377F0A9F3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal

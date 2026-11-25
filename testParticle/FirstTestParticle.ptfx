@@ -1,0 +1,18 @@
+ParticleToolEffect 3
+emission_rate 32
+lifetime 1.79999995
+duration 5
+speed 2
+speed_randomness 0.25
+spread 0.550000012
+gravity -0.800000012
+position 0 0 0
+direction 0 1 0
+position_randomness 0
+rotation_speed 0
+rotation_randomness 0
+sprite_index 0
+start_size 0.180000007
+end_size 0.0250000004
+start_color 1 0.479999989 0.119999997 1
+end_color 1 0.119999997 0.0250000004 0
